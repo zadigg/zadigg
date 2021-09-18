@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zadigg
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React, Next, Redux, Tailwind, NextAuth, Responsiveness, Firebase hooks, Heroicon, Material UI
-- 💞️ I’m looking to collaborate on web developments thats follows the current trend
+- 💞️ I’m looking to collaborate on web developments that follows the current trend
 - 📫 How to reach me ... 
       abelkibebe5@gmail.com
       +251924029960
