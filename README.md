@@ -1,4 +1,4 @@
-[![Header](https://miro.medium.com/max/1200/1*_MleaIeqcVpkI7k1yvH6BQ.png"Header")](https://some-url.dev/)
+
 - 👋 Hi, I’m @zadigg
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React, Next, Redux, Tailwind, NextAuth, Responsiveness, Firebase hooks, Heroicon, Material UI
