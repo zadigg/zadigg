@@ -1,9 +1,10 @@
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 - 👋 Hi, I’m @zadigg
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React, Next, Redux, Tailwind, NextAuth, Responsiveness, Firebase hooks, Heroicon, Material UI
 - 💞️ I’m looking to collaborate on web developments that follows the current trend
 - 📫 How to reach me ... 
-      abelkibebe5@gmail.com
+      abelkibebe5@gmail.com 
       +251924029960
 
 <!---
