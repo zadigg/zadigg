@@ -6,7 +6,6 @@
 
 - 👀 I’m interested in web development
 - 💞️ I’m looking to collaborate on web developments that follows the current trend
-- 🥅 2022 Goals: Contribute more to Open Source projects
 - 💪 I’m a hard worker and a team player
 - 💖 I’m a fast learner
 - 📫 How to reach me ... abelkibebe5@gmail.com +251924029960
