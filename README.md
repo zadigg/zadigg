@@ -17,8 +17,8 @@
 ### Languages and Tools:
 
 <img align="left" alt="JavaScript" src="https://img.icons8.com/color/36/000000/javascript.png"/>
-<img align="left" alt="React" width="20px" height="20px" src="https://img.icons8.com/plasticine/36/000000/react.png"/>
-<img align="left" alt="Tailwind" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png"/>
+<img align="left" alt="React"  src="https://img.icons8.com/plasticine/36/000000/react.png"/>
+<img align="left" alt="Tailwind" width="35px" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png"/>
 <img align="left" alt="Redux" src="https://img.icons8.com/color/36/000000/redux.png"/>
 <img align="left" alt="Node" src="https://img.icons8.com/color/36/000000/nodejs.png"/>
 <img align="left" alt="express" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/express/express.png" />
