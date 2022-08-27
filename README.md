@@ -2,7 +2,7 @@
   .. .. .. >>
 
 
-## I'm a Full Stack Developer and Perfectionist.
+## I'm a Full Stack Developer and Perfectionist..
 
 - 👀 I’m interested in web development
 - 💞️ I’m looking to collaborate on web developments that follows the current trend 
