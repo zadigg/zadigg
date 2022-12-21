@@ -1,4 +1,4 @@
-### Hi there, I'm Abel Kibebe - aka ZADIG 👋
+### Hi there, I'm Abel Kibebe - aka ZADIG 👋 https://www.abelkibebe.com/
   .. .. .. >>
 
 
@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on web developments that follows the current trend 
 - 💪 I’m a hard worker and a team player
 - 💖 I’m a fast learner
-- 📫 How to reach me .... abelkibebe5@gmail.com +251924029960
+- 📫 How to reach me .... abelkibebe5@gmail.com +251924029960  
 
 
 <br />
