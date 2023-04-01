@@ -7,7 +7,9 @@ https://www.abelkibebe.com/
 ## I'm a Full Stack Java Developer and Perfectionist.
 
 👀 I’m interested in web development, specifically using React for frontend development and Springboot for backend development.
+
 💞️ I’m looking to collaborate on full-stack web development projects that leverage React and Springboot to create modern and scalable web applications.
+
 💪 I’m a hardworking and collaborative team player with experience in both React and Springboot development.
 💖 I’m a fast learner and eager to expand my skills in full-stack web development. 
 📫 How to reach me .... abelkibebe5@gmail.com +1 641 233 9191
