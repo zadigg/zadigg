@@ -4,7 +4,7 @@ https://www.abelkibebe.com/
   .. .. .. >>
 
 
-## I'm a Full Stack Java Developer and Perfectionist.
+## I'm a Full Stack Java Developer.
 
 👀 I’m interested in web development, specifically using React for frontend development and Springboot for backend development.
 
