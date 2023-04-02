@@ -1,6 +1,6 @@
 ### Hi there, I'm Abel Kibebe - aka ZADIG 👋 
 
-https://www.abelkibebe.com/
+https://abelkibebe.com/
   .. .. .. >>
 
 
