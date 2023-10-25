@@ -14,7 +14,7 @@ https://abelkibebe.com/
 
 💖 I’m a fast learner and eager to expand my skills in full-stack web development. 
 
-📫 How to reach me .... abelkibebe5@gmail.com +1 641 233 9191
+📫 How to reach me .... abelkibebe5@gmail.com 
 
 
 <br />
