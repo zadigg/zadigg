@@ -1,4 +1,4 @@
-### Hi there, I'm Abel Kibebe - aka ZADIG 👋 
+### Hi there, I'm Abel Negash - aka ZADIG 👋 
 
 https://abelkibebe.com/
   .. .. .. >>
