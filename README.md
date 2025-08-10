@@ -1,6 +1,5 @@
 ### Hi there, I'm Abel Negash - aka ZADIG 👋 
 
-https://abelkibebe.com/
   .. .. .. >>
 
 
